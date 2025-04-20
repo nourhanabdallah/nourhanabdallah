@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nourhanabdallah
 - System Engineer@ Aman Holding
-- 👀 I’m interested in Cloud/Devops fields
+- 👀 I’m interested in Devops/Cloud fields
 - 🌱 I Graduated from  ITI Cloud Architecture 9-month diploma 
 - 📫 How to reach me  https://www.linkedin.com/in/nourhan-ibrahim-mohamed-abdallah/
 
